@@ -1,5 +1,5 @@
 ## Hola, soy Marcos 
-
+https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
 <!--
 **DecimoZ/DecimoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
