@@ -16,7 +16,7 @@
 ---
 
 ### 📊 Proyectos Destacados
-- 📁 **[InverTrack-Chile](https://github.com/DecimoZ/InverTrack-Chile):** Un script que escanea directorios, clasifica archivos y genera un reporte de estado en CSV.
+- 📁 **[InverTrack-Chile](https://github.com/DecimoZ/InverTrack-Chile):** es una solución profesional desarrollada en Python para la valoración de activos financieros en tiempo real.
 - 📋 **[TaskMaster-Pro](tu-link-aqui):** Sistema de gestión de tareas con prioridades y estados, desarrollado con arquitectura modular.
 - 📦 **[Inventory-Manager](tu-link-aqui):** Lógica de gestión de stock utilizando estructuras de datos complejas (Listas de Diccionarios).
 
