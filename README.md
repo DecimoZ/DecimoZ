@@ -16,7 +16,7 @@
 ---
 
 ### 📊 Proyectos Destacados
-- 📁 **[Auto-File-Organizer](https://github.com/DecimoZ/Auto-File-Organizer):** Un script que escanea directorios, clasifica archivos y genera un reporte de estado en CSV.
+- 📁 **[InverTrack-Chile](https://github.com/DecimoZ/InverTrack-Chile):** Un script que escanea directorios, clasifica archivos y genera un reporte de estado en CSV.
 - 📋 **[TaskMaster-Pro](tu-link-aqui):** Sistema de gestión de tareas con prioridades y estados, desarrollado con arquitectura modular.
 - 📦 **[Inventory-Manager](tu-link-aqui):** Lógica de gestión de stock utilizando estructuras de datos complejas (Listas de Diccionarios).
 
