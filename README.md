@@ -9,9 +9,7 @@
 ---
 
 ### Tecnologías y Herramientas
-- **Lenguajes:** Python (enfocado en automatización y lógica de negocio), [Agrega otros lenguajes aquí].
-- **Intereses:** Gestión de Inventarios, Scripts de Automatización de Sistema, Desarrollo de API.
-- **Herramientas:** Git, GitHub, [Agrega otras herramientas].
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
 ---
 
@@ -35,5 +33,4 @@ Busco integrarme a un equipo donde pueda aportar mi capacidad analítica y mis g
 
 
 ##  Habilidades
-## Lenguajes de programacion 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+
