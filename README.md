@@ -28,8 +28,8 @@ Busco integrarme a un equipo donde pueda aportar mi capacidad analítica y mis g
 ---
 
 ###  ¿Cómo contactarme?
-- **LinkedIn:** [www.linkedin.com/in/marcoszuñigah]
-- **Email:** [marcosefrainz@gmail.com]
+- **LinkedIn:** www.linkedin.com/in/marcoszuñigah
+- **Email:** marcosefrainz@gmail.com
 
 
 
