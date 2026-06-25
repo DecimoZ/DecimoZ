@@ -1,5 +1,7 @@
 # ¡Hola! Soy Marcos 👋
 
+![Contador de visitas de GitHub](https://komarev.com/ghpvc/?username=DecimoZ)
+
 ### 👨‍💻 Sobre mí
 -  **Ingeniero en Informática recién egresado** en búsqueda de mi primera práctica profesional.
 - Apasionado por la **automatización de procesos** y la creación de herramientas que faciliten el día a día.
