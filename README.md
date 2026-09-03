@@ -2,7 +2,7 @@
 
 ![Contador de visitas de GitHub](https://komarev.com/ghpvc/?username=DecimoZ)
 
-### 👨‍💻 Sobre mí
+###  Sobre mí
 -  **Ingeniero en Informática recién egresado** en búsqueda de mi primera práctica profesional.
 - Apasionado por la **automatización de procesos** y la creación de herramientas que faciliten el día a día.
 - **Aprendiz constante:** Dedico tiempo diario a la lectura técnica y a mantenerme informado sobre las últimas tendencias en IA y desarrollo de software.
